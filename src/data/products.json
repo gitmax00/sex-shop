@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "p001",
+    "name_ru": "Вибратор Magic Wand Pro",
+    "name_uk": "Вібратор Magic Wand Pro",
+    "description_ru": "Мощный вибратор с 10 режимами вибрации, силиконовое покрытие, водонепроницаемый. Идеален для клиторальной стимуляции.",
+    "description_uk": "Потужний вібратор з 10 режимами вібрації, силіконове покриття, водонепроникний. Ідеальний для кліторальної стимуляції.",
+    "price": 1299,
+    "oldprice": 1599,
+    "images": [
+      "https://images.prom.ua/4800000001_1.jpg"
+    ],
+    "categoryId": "101",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Длина",
+        "value": "22 см"
+      },
+      {
+        "name": "Цвет",
+        "value": "Фиолетовый"
+      }
+    ]
+  },
+  {
+    "id": "p002",
+    "name_ru": "Вибратор Rabbit Deluxe",
+    "name_uk": "Вібратор Rabbit Deluxe",
+    "description_ru": "Двойной вибратор с кроличьими ушками для одновременной стимуляции G-точки и клитора. 12 режимов.",
+    "description_uk": "Подвійний вібратор із кролячими вушками для одночасної стимуляції G-точки та клітора. 12 режимів.",
+    "price": 1799,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000002_1.jpg"
+    ],
+    "categoryId": "101",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Длина",
+        "value": "20 см"
+      },
+      {
+        "name": "Цвет",
+        "value": "Розовый"
+      }
+    ]
+  },
+  {
+    "id": "p003",
+    "name_ru": "Мини-вибратор Bullet Silver",
+    "name_uk": "Міні-вібратор Bullet Silver",
+    "description_ru": "Компактный пуля-вибратор из нержавеющей стали. Мощный мотор, тихий режим работы.",
+    "description_uk": "Компактний вібратор-куля з нержавіючої сталі. Потужний мотор, тихий режим роботи.",
+    "price": 599,
+    "oldprice": 799,
+    "images": [
+      "https://images.prom.ua/4800000003_1.jpg"
+    ],
+    "categoryId": "101",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Металл"
+      },
+      {
+        "name": "Длина",
+        "value": "8 см"
+      },
+      {
+        "name": "Цвет",
+        "value": "Серебристый"
+      }
+    ]
+  },
+  {
+    "id": "p004",
+    "name_ru": "Вибратор G-Spot Explorer",
+    "name_uk": "Вібратор G-Spot Explorer",
+    "description_ru": "Изогнутый вибратор специально для стимуляции точки G. Анатомически правильная форма.",
+    "description_uk": "Зігнутий вібратор спеціально для стимуляції точки G. Анатомічно правильна форма.",
+    "price": 1099,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000004_1.jpg"
+    ],
+    "categoryId": "101",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Длина",
+        "value": "18 см"
+      },
+      {
+        "name": "Цвет",
+        "value": "Синий"
+      }
+    ]
+  },
+  {
+    "id": "p005",
+    "name_ru": "Вибратор Lux Gold Edition",
+    "name_uk": "Вібратор Lux Gold Edition",
+    "description_ru": "Роскошный вибратор с позолоченными деталями. Перезаряжаемый через USB. 15 режимов.",
+    "description_uk": "Розкішний вібратор із позолоченими деталями. Заряджається через USB. 15 режимів.",
+    "price": 2499,
+    "oldprice": 2999,
+    "images": [
+      "https://images.prom.ua/4800000005_1.jpg"
+    ],
+    "categoryId": "101",
+    "available": false,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон+ABS"
+      },
+      {
+        "name": "Длина",
+        "value": "24 см"
+      },
+      {
+        "name": "Цвет",
+        "value": "Золотой"
+      }
+    ]
+  },
+  {
+    "id": "p006",
+    "name_ru": "Вибратор Air Pulse Satisfyer",
+    "name_uk": "Вібратор Air Pulse Satisfyer",
+    "description_ru": "Бесконтактный клиторальный стимулятор с воздушными волнами. Революционная технология.",
+    "description_uk": "Безконтактний кліторальний стимулятор з повітряними хвилями. Революційна технологія.",
+    "price": 1899,
+    "oldprice": 2199,
+    "images": [
+      "https://images.prom.ua/4800000006_1.jpg"
+    ],
+    "categoryId": "101",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Режимов",
+        "value": "11"
+      },
+      {
+        "name": "Цвет",
+        "value": "Черный"
+      }
+    ]
+  },
+  {
+    "id": "p007",
+    "name_ru": "Фаллоимитатор Classic Real",
+    "name_uk": "Фалоімітатор Classic Real",
+    "description_ru": "Реалистичный фаллоимитатор с присоской. Мягкий материал, точная анатомия.",
+    "description_uk": "Реалістичний фалоімітатор з присоском. М'який матеріал, точна анатомія.",
+    "price": 899,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000007_1.jpg"
+    ],
+    "categoryId": "102",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "TPE"
+      },
+      {
+        "name": "Длина",
+        "value": "19 см"
+      },
+      {
+        "name": "Диаметр",
+        "value": "4 см"
+      }
+    ]
+  },
+  {
+    "id": "p008",
+    "name_ru": "Фаллоимитатор Double Delight",
+    "name_uk": "Фалоімітатор Double Delight",
+    "description_ru": "Двойной фаллоимитатор для двоих. Гибкий, с текстурированной поверхностью.",
+    "description_uk": "Подвійний фалоімітатор для двох. Гнучкий, з текстурованою поверхнею.",
+    "price": 1299,
+    "oldprice": 1499,
+    "images": [
+      "https://images.prom.ua/4800000008_1.jpg"
+    ],
+    "categoryId": "102",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Длина",
+        "value": "38 см"
+      },
+      {
+        "name": "Диаметр",
+        "value": "3.5 см"
+      }
+    ]
+  },
+  {
+    "id": "p009",
+    "name_ru": "Стеклянный дилдо Crystal",
+    "name_uk": "Скляний дилдо Crystal",
+    "description_ru": "Элегантный стеклянный фаллоимитатор ручной работы. Бородавки для дополнительной стимуляции.",
+    "description_uk": "Елегантний скляний фалоімітатор ручної роботи. Горбки для додаткової стимуляції.",
+    "price": 1599,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000009_1.jpg"
+    ],
+    "categoryId": "102",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Боросиликатное стекло"
+      },
+      {
+        "name": "Длина",
+        "value": "17 см"
+      },
+      {
+        "name": "Диаметр",
+        "value": "3 см"
+      }
+    ]
+  },
+  {
+    "id": "p010",
+    "name_ru": "Вагинальные шарики Kegel Pro",
+    "name_uk": "Вагінальні кульки Kegel Pro",
+    "description_ru": "Тренажер для интимных мышц. Набор из 3 шариков разного веса.",
+    "description_uk": "Тренажер для інтимних м'язів. Набір з 3 кульок різної ваги.",
+    "price": 799,
+    "oldprice": 999,
+    "images": [
+      "https://images.prom.ua/4800000010_1.jpg"
+    ],
+    "categoryId": "103",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Вес",
+        "value": "25-75 г"
+      },
+      {
+        "name": "Комплект",
+        "value": "3 шарика"
+      }
+    ]
+  },
+  {
+    "id": "p011",
+    "name_ru": "Шарики Ben Wa Classic",
+    "name_uk": "Кульки Ben Wa Classic",
+    "description_ru": "Классические шарики Бен-Ва из металла. Незаметны под одеждой.",
+    "description_uk": "Класичні кульки Бен-Ва з металу. Непомітні під одягом.",
+    "price": 549,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000011_1.jpg"
+    ],
+    "categoryId": "103",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Металл"
+      },
+      {
+        "name": "Диаметр",
+        "value": "3 см"
+      },
+      {
+        "name": "Вес",
+        "value": "50 г"
+      }
+    ]
+  },
+  {
+    "id": "p012",
+    "name_ru": "Вакуумный стимулятор Clitoral Kiss",
+    "name_uk": "Вакуумний стимулятор Clitoral Kiss",
+    "description_ru": "Вакуумный стимулятор клитора с эффектом поцелуя. 10 интенсивностей.",
+    "description_uk": "Вакуумний стимулятор клітора з ефектом поцілунку. 10 інтенсивностей.",
+    "price": 1699,
+    "oldprice": 1999,
+    "images": [
+      "https://images.prom.ua/4800000012_1.jpg"
+    ],
+    "categoryId": "104",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Режимов",
+        "value": "10"
+      },
+      {
+        "name": "Заряд",
+        "value": "USB"
+      }
+    ]
+  },
+  {
+    "id": "p013",
+    "name_ru": "Помпа для груди Breast Enhancer",
+    "name_uk": "Помпа для грудей Breast Enhancer",
+    "description_ru": "Вакуумные помпы для груди. Усиливают чувствительность и создают приятные ощущения.",
+    "description_uk": "Вакуумні помпи для грудей. Підсилюють чутливість і створюють приємні відчуття.",
+    "price": 699,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000013_1.jpg"
+    ],
+    "categoryId": "104",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "TPE+ABS"
+      },
+      {
+        "name": "Диаметр",
+        "value": "7 см"
+      },
+      {
+        "name": "Комплект",
+        "value": "2 шт"
+      }
+    ]
+  },
+  {
+    "id": "p014",
+    "name_ru": "Секс-машина Power Thrust Pro",
+    "name_uk": "Секс-машина Power Thrust Pro",
+    "description_ru": "Профессиональная секс-машина с регулируемой скоростью. Включает 3 насадки.",
+    "description_uk": "Професійна секс-машина з регульованою швидкістю. Включає 3 насадки.",
+    "price": 8999,
+    "oldprice": 10999,
+    "images": [
+      "https://images.prom.ua/4800000014_1.jpg"
+    ],
+    "categoryId": "105",
+    "available": true,
+    "params": [
+      {
+        "name": "Скорость",
+        "value": "до 240 уд/мин"
+      },
+      {
+        "name": "Глубина хода",
+        "value": "15 см"
+      },
+      {
+        "name": "Насадки",
+        "value": "3 шт"
+      }
+    ]
+  },
+  {
+    "id": "p015",
+    "name_ru": "Мастурбатор Pocket Pussy Elite",
+    "name_uk": "Мастурбатор Pocket Pussy Elite",
+    "description_ru": "Реалистичный мастурбатор с вибрацией. Мягкий материал, точная текстура.",
+    "description_uk": "Реалістичний мастурбатор з вібрацією. М'який матеріал, точна текстура.",
+    "price": 1199,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000015_1.jpg"
+    ],
+    "categoryId": "201",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "TPE"
+      },
+      {
+        "name": "Длина",
+        "value": "17 см"
+      },
+      {
+        "name": "Вибрация",
+        "value": "Да"
+      }
+    ]
+  },
+  {
+    "id": "p016",
+    "name_ru": "Мастурбатор Fleshlight Ice Lady",
+    "name_uk": "Мастурбатор Fleshlight Ice Lady",
+    "description_ru": "Прозрачный мастурбатор с уникальными рёбрами внутри. Многоразовый.",
+    "description_uk": "Прозорий мастурбатор з унікальними ребрами всередині. Багаторазовий.",
+    "price": 1899,
+    "oldprice": 2299,
+    "images": [
+      "https://images.prom.ua/4800000016_1.jpg"
+    ],
+    "categoryId": "201",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "SuperSkin"
+      },
+      {
+        "name": "Длина",
+        "value": "22 см"
+      },
+      {
+        "name": "Диаметр",
+        "value": "3.5 см"
+      }
+    ]
+  },
+  {
+    "id": "p017",
+    "name_ru": "Автоматический мастурбатор Auto Stroker",
+    "name_uk": "Автоматичний мастурбатор Auto Stroker",
+    "description_ru": "Электрический мастурбатор с автоматическими движениями. 7 режимов.",
+    "description_uk": "Електричний мастурбатор з автоматичними рухами. 7 режимів.",
+    "price": 3499,
+    "oldprice": 3999,
+    "images": [
+      "https://images.prom.ua/4800000017_1.jpg"
+    ],
+    "categoryId": "201",
+    "available": false,
+    "params": [
+      {
+        "name": "Режимов",
+        "value": "7"
+      },
+      {
+        "name": "Питание",
+        "value": "Аккумулятор USB"
+      },
+      {
+        "name": "Материал",
+        "value": "TPE+ABS"
+      }
+    ]
+  },
+  {
+    "id": "p018",
+    "name_ru": "Насадка на член Sleeve Ribbed",
+    "name_uk": "Насадка на член Sleeve Ribbed",
+    "description_ru": "Рёбристая насадка для увеличения удовольствия партнёрши. Открытый конец.",
+    "description_uk": "Ребриста насадка для збільшення задоволення партнерки. Відкритий кінець.",
+    "price": 499,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000018_1.jpg"
+    ],
+    "categoryId": "202",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "TPE"
+      },
+      {
+        "name": "Длина",
+        "value": "12 см"
+      },
+      {
+        "name": "Тип",
+        "value": "Открытый"
+      }
+    ]
+  },
+  {
+    "id": "p019",
+    "name_ru": "Насадка Girth Enhancer XL",
+    "name_uk": "Насадка Girth Enhancer XL",
+    "description_ru": "Насадка для увеличения обхвата. Мягкий материал, удобная посадка.",
+    "description_uk": "Насадка для збільшення обхвату. М'який матеріал, зручна посадка.",
+    "price": 699,
+    "oldprice": 899,
+    "images": [
+      "https://images.prom.ua/4800000019_1.jpg"
+    ],
+    "categoryId": "202",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "TPE"
+      },
+      {
+        "name": "Диаметр",
+        "value": "+2 см"
+      },
+      {
+        "name": "Длина",
+        "value": "+3 см"
+      }
+    ]
+  },
+  {
+    "id": "p020",
+    "name_ru": "Эрекционное кольцо Vibro Ring",
+    "name_uk": "Ерекційне кільце Vibro Ring",
+    "description_ru": "Вибрирующее эрекционное кольцо. Стимулирует обоих партнёров во время близости.",
+    "description_uk": "Вібруюче ерекційне кільце. Стимулює обох партнерів під час близькості.",
+    "price": 599,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000020_1.jpg"
+    ],
+    "categoryId": "203",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон+ABS"
+      },
+      {
+        "name": "Диаметр",
+        "value": "4.5 см"
+      },
+      {
+        "name": "Режимов",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": "p021",
+    "name_ru": "Набор колец Triple Fun",
+    "name_uk": "Набір кілець Triple Fun",
+    "description_ru": "Набор из 3 эрекционных колец разного диаметра. Растягиваемые.",
+    "description_uk": "Набір з 3 ерекційних кілець різного діаметру. Еластичні.",
+    "price": 399,
+    "oldprice": 499,
+    "images": [
+      "https://images.prom.ua/4800000021_1.jpg"
+    ],
+    "categoryId": "203",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Диаметры",
+        "value": "3/4/5 см"
+      },
+      {
+        "name": "Комплект",
+        "value": "3 шт"
+      }
+    ]
+  },
+  {
+    "id": "p022",
+    "name_ru": "Простатный массажёр Aneros Syn",
+    "name_uk": "Простатний масажер Aneros Syn",
+    "description_ru": "Эргономичный массажёр простаты. Руки-свободны дизайн, для самостоятельного использования.",
+    "description_uk": "Ергономічний масажер простати. Дизайн без рук, для самостійного використання.",
+    "price": 1399,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000022_1.jpg"
+    ],
+    "categoryId": "204",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Длина",
+        "value": "10 см"
+      },
+      {
+        "name": "Тип",
+        "value": "Hands-free"
+      }
+    ]
+  },
+  {
+    "id": "p023",
+    "name_ru": "Вибромассажёр простаты P-Spot Vibe",
+    "name_uk": "Вібромасажер простати P-Spot Vibe",
+    "description_ru": "Вибрирующий простатный массажёр с 12 функциями. Водонепроницаемый.",
+    "description_uk": "Вібруючий простатний масажер з 12 функціями. Водонепроникний.",
+    "price": 1899,
+    "oldprice": 2299,
+    "images": [
+      "https://images.prom.ua/4800000023_1.jpg"
+    ],
+    "categoryId": "204",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Режимов",
+        "value": "12"
+      },
+      {
+        "name": "Водостойкость",
+        "value": "IPX7"
+      }
+    ]
+  },
+  {
+    "id": "p024",
+    "name_ru": "Вакуумная помпа Cylinder Pro",
+    "name_uk": "Вакуумна помпа Cylinder Pro",
+    "description_ru": "Помпа для увеличения и подготовки к интиму. С манометром для контроля давления.",
+    "description_uk": "Помпа для збільшення і підготовки до інтиму. З манометром для контролю тиску.",
+    "price": 1299,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000024_1.jpg"
+    ],
+    "categoryId": "205",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "ABS+TPE"
+      },
+      {
+        "name": "Длина",
+        "value": "25 см"
+      },
+      {
+        "name": "Диаметр",
+        "value": "7 см"
+      }
+    ]
+  },
+  {
+    "id": "p025",
+    "name_ru": "Набор для бондажа Bondage Kit",
+    "name_uk": "Набір для бондажу Bondage Kit",
+    "description_ru": "Стартовый набор БДСМ: наручники, маска, кляп, флоггер, щипцы для сосков.",
+    "description_uk": "Стартовий набір БДСМ: наручники, маска, кляп, флоггер, затискачі для сосків.",
+    "price": 1599,
+    "oldprice": 1899,
+    "images": [
+      "https://images.prom.ua/4800000025_1.jpg"
+    ],
+    "categoryId": "301",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Кожзам+Металл"
+      },
+      {
+        "name": "Комплект",
+        "value": "5 предметов"
+      },
+      {
+        "name": "Цвет",
+        "value": "Черный"
+      }
+    ]
+  },
+  {
+    "id": "p026",
+    "name_ru": "Плётка Flogger Premium",
+    "name_uk": "Батіг Flogger Premium",
+    "description_ru": "Кожаная плётка с ручкой из натуральной кожи. 20 хвостов.",
+    "description_uk": "Шкіряна батіг з рукояткою з натуральної шкіри. 20 хвостів.",
+    "price": 799,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000026_1.jpg"
+    ],
+    "categoryId": "301",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Натуральная кожа"
+      },
+      {
+        "name": "Длина",
+        "value": "40 см"
+      },
+      {
+        "name": "Хвосты",
+        "value": "20 шт"
+      }
+    ]
+  },
+  {
+    "id": "p027",
+    "name_ru": "Наручники Velvet Cuffs",
+    "name_uk": "Наручники Velvet Cuffs",
+    "description_ru": "Мягкие наручники на велкро. Регулируемые, мягкая подкладка.",
+    "description_uk": "М'які наручники на велкро. Регульовані, м'яка підкладка.",
+    "price": 449,
+    "oldprice": 599,
+    "images": [
+      "https://images.prom.ua/4800000027_1.jpg"
+    ],
+    "categoryId": "301",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Флок+Велкро"
+      },
+      {
+        "name": "Размер",
+        "value": "Универсальный"
+      },
+      {
+        "name": "Цвет",
+        "value": "Красный"
+      }
+    ]
+  },
+  {
+    "id": "p028",
+    "name_ru": "Ошейник с поводком Collar Set",
+    "name_uk": "Нашийник з повідком Collar Set",
+    "description_ru": "Кожаный ошейник с металлическими кольцами и поводком в комплекте.",
+    "description_uk": "Шкіряний нашийник з металевими кільцями та повідком у комплекті.",
+    "price": 649,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000028_1.jpg"
+    ],
+    "categoryId": "301",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Кожзам+Металл"
+      },
+      {
+        "name": "Ширина",
+        "value": "3 см"
+      },
+      {
+        "name": "Длина поводка",
+        "value": "100 см"
+      }
+    ]
+  },
+  {
+    "id": "p029",
+    "name_ru": "Анальный вибратор Anal Vibe",
+    "name_uk": "Анальний вібратор Anal Vibe",
+    "description_ru": "Анальный вибратор с ограничителем. 10 режимов вибрации, водонепроницаемый.",
+    "description_uk": "Анальний вібратор з обмежувачем. 10 режимів вібрації, водонепроникний.",
+    "price": 899,
+    "oldprice": 1099,
+    "images": [
+      "https://images.prom.ua/4800000029_1.jpg"
+    ],
+    "categoryId": "302",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Длина",
+        "value": "14 см"
+      },
+      {
+        "name": "Режимов",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": "p030",
+    "name_ru": "Анальные бусы Anal Beads",
+    "name_uk": "Анальні намиста Anal Beads",
+    "description_ru": "Гибкая гирлянда анальных бус с петлей. Постепенное увеличение диаметра.",
+    "description_uk": "Гнучкий ланцюжок анальних намист з петлею. Поступове збільшення діаметру.",
+    "price": 499,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000030_1.jpg"
+    ],
+    "categoryId": "302",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Длина",
+        "value": "30 см"
+      },
+      {
+        "name": "Бусин",
+        "value": "8 шт"
+      }
+    ]
+  },
+  {
+    "id": "p031",
+    "name_ru": "Анальная пробка Jewel Small",
+    "name_uk": "Анальна пробка Jewel Small",
+    "description_ru": "Металлическая анальная пробка с кристаллом. Размер S, идеально для начинающих.",
+    "description_uk": "Металева анальна пробка з кристалом. Розмір S, ідеально для початківців.",
+    "price": 649,
+    "oldprice": 799,
+    "images": [
+      "https://images.prom.ua/4800000031_1.jpg"
+    ],
+    "categoryId": "303",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Нержавеющая сталь"
+      },
+      {
+        "name": "Размер",
+        "value": "S"
+      },
+      {
+        "name": "Длина",
+        "value": "6 см"
+      }
+    ]
+  },
+  {
+    "id": "p032",
+    "name_ru": "Анальная пробка Jewel Medium",
+    "name_uk": "Анальна пробка Jewel Medium",
+    "description_ru": "Металлическая анальная пробка с кристаллом. Размер M.",
+    "description_uk": "Металева анальна пробка з кристалом. Розмір M.",
+    "price": 799,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000032_1.jpg"
+    ],
+    "categoryId": "303",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Нержавеющая сталь"
+      },
+      {
+        "name": "Размер",
+        "value": "M"
+      },
+      {
+        "name": "Длина",
+        "value": "8 см"
+      }
+    ]
+  },
+  {
+    "id": "p033",
+    "name_ru": "Анальная пробка Tail Fox",
+    "name_uk": "Анальна пробка Tail Fox",
+    "description_ru": "Анальная пробка с лисьим хвостом. Металлическая основа, натуральный мех.",
+    "description_uk": "Анальна пробка з лисячим хвостом. Металева основа, натуральне хутро.",
+    "price": 1299,
+    "oldprice": 1499,
+    "images": [
+      "https://images.prom.ua/4800000033_1.jpg"
+    ],
+    "categoryId": "303",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Металл+Мех"
+      },
+      {
+        "name": "Длина хвоста",
+        "value": "30 см"
+      },
+      {
+        "name": "Цвет",
+        "value": "Рыжий"
+      }
+    ]
+  },
+  {
+    "id": "p034",
+    "name_ru": "Страпон Hollow Strap-On",
+    "name_uk": "Страпон Hollow Strap-On",
+    "description_ru": "Страпон-насадка с трусиками. Реалистичный вид, мягкий материал.",
+    "description_uk": "Страпон-насадка з трусиками. Реалістичний вигляд, м'який матеріал.",
+    "price": 1599,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000034_1.jpg"
+    ],
+    "categoryId": "304",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "TPE+Нейлон"
+      },
+      {
+        "name": "Длина",
+        "value": "17 см"
+      },
+      {
+        "name": "Трусики",
+        "value": "В комплекте"
+      }
+    ]
+  },
+  {
+    "id": "p035",
+    "name_ru": "Страпон Silicone Strap",
+    "name_uk": "Страпон Silicone Strap",
+    "description_ru": "Силиконовый страпон с вибрацией. Регулируемый ремень, USB зарядка.",
+    "description_uk": "Силіконовий страпон з вібрацією. Регульований ремінь, USB зарядка.",
+    "price": 2299,
+    "oldprice": 2799,
+    "images": [
+      "https://images.prom.ua/4800000035_1.jpg"
+    ],
+    "categoryId": "304",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Длина",
+        "value": "19 см"
+      },
+      {
+        "name": "Вибрация",
+        "value": "10 режимов"
+      }
+    ]
+  },
+  {
+    "id": "p036",
+    "name_ru": "Кружевной комплект Lace Desire",
+    "name_uk": "Мереживний комплект Lace Desire",
+    "description_ru": "Эротический кружевной комплект: бюстгальтер + трусики-стринги. Размеры S-XL.",
+    "description_uk": "Еротичний мереживний комплект: ліфчик + трусики-стринги. Розміри S-XL.",
+    "price": 699,
+    "oldprice": 899,
+    "images": [
+      "https://images.prom.ua/4800000036_1.jpg"
+    ],
+    "categoryId": "401",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Кружево+Нейлон"
+      },
+      {
+        "name": "Размеры",
+        "value": "S, M, L, XL"
+      },
+      {
+        "name": "Цвет",
+        "value": "Черный"
+      }
+    ]
+  },
+  {
+    "id": "p037",
+    "name_ru": "Боди открытое Passion Body",
+    "name_uk": "Боді відкрите Passion Body",
+    "description_ru": "Открытое эротическое боди из сетки. Соблазнительный силуэт.",
+    "description_uk": "Відкрите еротичне боді з сітки. Спокусливий силует.",
+    "price": 849,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000037_1.jpg"
+    ],
+    "categoryId": "401",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Нейлон-сетка"
+      },
+      {
+        "name": "Размеры",
+        "value": "S-XL"
+      },
+      {
+        "name": "Цвет",
+        "value": "Красный"
+      }
+    ]
+  },
+  {
+    "id": "p038",
+    "name_ru": "Корсет с подвязками Corset Queen",
+    "name_uk": "Корсет з підв'язками Corset Queen",
+    "description_ru": "Роскошный корсет с косточками и подвязками для чулок.",
+    "description_uk": "Розкішний корсет із кісточками та підв'язками для панчіх.",
+    "price": 1299,
+    "oldprice": 1599,
+    "images": [
+      "https://images.prom.ua/4800000038_1.jpg"
+    ],
+    "categoryId": "401",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Атлас+Кружево"
+      },
+      {
+        "name": "Размеры",
+        "value": "S, M, L"
+      },
+      {
+        "name": "Цвет",
+        "value": "Черный"
+      }
+    ]
+  },
+  {
+    "id": "p039",
+    "name_ru": "Чулки Stay-Up Stockings",
+    "name_uk": "Панчохи Stay-Up Stockings",
+    "description_ru": "Чулки на силиконовой резинке. Не спадают, соблазнительный вид.",
+    "description_uk": "Панчохи на силіконовій резинці. Не спадають, спокусливий вигляд.",
+    "price": 349,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000039_1.jpg"
+    ],
+    "categoryId": "401",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Нейлон"
+      },
+      {
+        "name": "Размеры",
+        "value": "S-XL"
+      },
+      {
+        "name": "Цвет",
+        "value": "Черный/Красный"
+      }
+    ]
+  },
+  {
+    "id": "p040",
+    "name_ru": "Костюм медсестры Nurse Fantasy",
+    "name_uk": "Костюм медсестри Nurse Fantasy",
+    "description_ru": "Эротический костюм медсестры: платье, фартук, шапочка. Размеры S-L.",
+    "description_uk": "Еротичний костюм медсестри: сукня, фартух, шапочка. Розміри S-L.",
+    "price": 899,
+    "oldprice": 1099,
+    "images": [
+      "https://images.prom.ua/4800000040_1.jpg"
+    ],
+    "categoryId": "402",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Полиэстер"
+      },
+      {
+        "name": "Комплект",
+        "value": "3 предмета"
+      },
+      {
+        "name": "Размеры",
+        "value": "S, M, L"
+      }
+    ]
+  },
+  {
+    "id": "p041",
+    "name_ru": "Костюм полицейского Police Officer",
+    "name_uk": "Костюм поліцейського Police Officer",
+    "description_ru": "Эротический костюм полицейского с аксессуарами: наручники, дубинка.",
+    "description_uk": "Еротичний костюм поліцейського з аксесуарами: наручники, палиця.",
+    "price": 1099,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000041_1.jpg"
+    ],
+    "categoryId": "402",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Полиэстер+Кожзам"
+      },
+      {
+        "name": "Комплект",
+        "value": "5 предметов"
+      },
+      {
+        "name": "Размеры",
+        "value": "S, M, L"
+      }
+    ]
+  },
+  {
+    "id": "p042",
+    "name_ru": "Костюм кошечки Cat Woman",
+    "name_uk": "Костюм кішечки Cat Woman",
+    "description_ru": "Игривый костюм кошечки: ушки, хвост, ошейник, перчатки.",
+    "description_uk": "Грайливий костюм кішечки: вушка, хвіст, нашийник, рукавички.",
+    "price": 799,
+    "oldprice": 999,
+    "images": [
+      "https://images.prom.ua/4800000042_1.jpg"
+    ],
+    "categoryId": "402",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Плюш+Кожзам"
+      },
+      {
+        "name": "Комплект",
+        "value": "4 предмета"
+      },
+      {
+        "name": "Цвет",
+        "value": "Черный"
+      }
+    ]
+  },
+  {
+    "id": "p043",
+    "name_ru": "Эротический купальник Micro Bikini",
+    "name_uk": "Еротичний купальник Micro Bikini",
+    "description_ru": "Микро-бикини с минимальным покрытием. Яркие цвета, стринги.",
+    "description_uk": "Мікро-бікіні з мінімальним покриттям. Яскраві кольори, стрінги.",
+    "price": 549,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000043_1.jpg"
+    ],
+    "categoryId": "403",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Лайкра"
+      },
+      {
+        "name": "Размеры",
+        "value": "XS-L"
+      },
+      {
+        "name": "Цвет",
+        "value": "Красный/Черный"
+      }
+    ]
+  },
+  {
+    "id": "p044",
+    "name_ru": "Портупея кожаная Body Harness",
+    "name_uk": "Портупея шкіряна Body Harness",
+    "description_ru": "Кожаная портупея на всё тело. Регулируемые ремни, металлические кольца.",
+    "description_uk": "Шкіряна портупея на все тіло. Регульовані ремені, металеві кільця.",
+    "price": 1199,
+    "oldprice": 1499,
+    "images": [
+      "https://images.prom.ua/4800000044_1.jpg"
+    ],
+    "categoryId": "404",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Кожзам+Металл"
+      },
+      {
+        "name": "Размер",
+        "value": "Универсальный"
+      },
+      {
+        "name": "Цвет",
+        "value": "Черный"
+      }
+    ]
+  },
+  {
+    "id": "p045",
+    "name_ru": "Подвязка Garter Belt Set",
+    "name_uk": "Підв'язка Garter Belt Set",
+    "description_ru": "Пояс для чулок с 6 подвязками. Кружево, регулируемые ремни.",
+    "description_uk": "Пояс для панчіх з 6 підв'язками. Мереживо, регульовані ремені.",
+    "price": 599,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000045_1.jpg"
+    ],
+    "categoryId": "404",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Кружево+Эластан"
+      },
+      {
+        "name": "Размеры",
+        "value": "S-XL"
+      },
+      {
+        "name": "Подвязок",
+        "value": "6 шт"
+      }
+    ]
+  },
+  {
+    "id": "p046",
+    "name_ru": "Парик Cleopatra Black",
+    "name_uk": "Перука Cleopatra Black",
+    "description_ru": "Парик Клеопатры черный с прямыми волосами. Натуральный вид.",
+    "description_uk": "Перука Клеопатри чорна з прямим волоссям. Натуральний вигляд.",
+    "price": 449,
+    "oldprice": 599,
+    "images": [
+      "https://images.prom.ua/4800000046_1.jpg"
+    ],
+    "categoryId": "405",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Синтетика"
+      },
+      {
+        "name": "Длина",
+        "value": "30 см"
+      },
+      {
+        "name": "Цвет",
+        "value": "Черный"
+      }
+    ]
+  },
+  {
+    "id": "p047",
+    "name_ru": "Парик Schoolgirl Blonde",
+    "name_uk": "Перука Schoolgirl Blonde",
+    "description_ru": "Блондинистый парик с косичками. Идеален для ролевых игр.",
+    "description_uk": "Блондинистий перука з кісками. Ідеальний для рольових ігор.",
+    "price": 399,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000047_1.jpg"
+    ],
+    "categoryId": "405",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Синтетика"
+      },
+      {
+        "name": "Длина",
+        "value": "40 см"
+      },
+      {
+        "name": "Цвет",
+        "value": "Светло-русый"
+      }
+    ]
+  },
+  {
+    "id": "p048",
+    "name_ru": "Эрекционный насос PE Pump",
+    "name_uk": "Еректильна помпа PE Pump",
+    "description_ru": "Помпа для эрекции с вибрацией. Мягкое уплотнение, манометр.",
+    "description_uk": "Помпа для ерекції з вібрацією. М'яке ущільнення, манометр.",
+    "price": 1799,
+    "oldprice": 2199,
+    "images": [
+      "https://images.prom.ua/4800000048_1.jpg"
+    ],
+    "categoryId": "501",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "ABS+TPE"
+      },
+      {
+        "name": "Длина цилиндра",
+        "value": "22 см"
+      },
+      {
+        "name": "Вибрация",
+        "value": "Да"
+      }
+    ]
+  },
+  {
+    "id": "p049",
+    "name_ru": "Игрушка для пар We-Vibe Style",
+    "name_uk": "Іграшка для пар We-Vibe Style",
+    "description_ru": "Вибратор для пар, носится во время близости. Управление через приложение.",
+    "description_uk": "Вібратор для пар, носиться під час близькості. Управління через додаток.",
+    "price": 2999,
+    "oldprice": 3499,
+    "images": [
+      "https://images.prom.ua/4800000049_1.jpg"
+    ],
+    "categoryId": "501",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Управление",
+        "value": "App + Пульт"
+      },
+      {
+        "name": "Заряд",
+        "value": "USB"
+      }
+    ]
+  },
+  {
+    "id": "p050",
+    "name_ru": "Паровая машина для секса Steam",
+    "name_uk": "Парова машина для сексу Steam",
+    "description_ru": "Интерактивная секс-машина с виртуальной реальностью. Синхронизация с видео.",
+    "description_uk": "Інтерактивна секс-машина з віртуальною реальністю. Синхронізація з відео.",
+    "price": 12999,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000050_1.jpg"
+    ],
+    "categoryId": "501",
+    "available": false,
+    "params": [
+      {
+        "name": "Подключение",
+        "value": "Bluetooth+WiFi"
+      },
+      {
+        "name": "Совместимость",
+        "value": "VR контент"
+      },
+      {
+        "name": "Материал",
+        "value": "TPE+ABS"
+      }
+    ]
+  },
+  {
+    "id": "p051",
+    "name_ru": "Лубрикант Water Classic 100ml",
+    "name_uk": "Лубрикант Water Classic 100ml",
+    "description_ru": "Классический водный лубрикант. Без запаха, совместим с презервативами.",
+    "description_uk": "Класичний водний лубрикант. Без запаху, сумісний із презервативами.",
+    "price": 249,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000051_1.jpg"
+    ],
+    "categoryId": "601",
+    "available": true,
+    "params": [
+      {
+        "name": "Объём",
+        "value": "100 мл"
+      },
+      {
+        "name": "Основа",
+        "value": "Вода"
+      },
+      {
+        "name": "Запах",
+        "value": "Без запаха"
+      }
+    ]
+  },
+  {
+    "id": "p052",
+    "name_ru": "Лубрикант Silicone Long-lasting 50ml",
+    "name_uk": "Лубрикант Silicone Long-lasting 50ml",
+    "description_ru": "Силиконовый лубрикант длительного действия. Подходит для воды.",
+    "description_uk": "Силіконовий лубрикант тривалої дії. Підходить для води.",
+    "price": 349,
+    "oldprice": 449,
+    "images": [
+      "https://images.prom.ua/4800000052_1.jpg"
+    ],
+    "categoryId": "601",
+    "available": true,
+    "params": [
+      {
+        "name": "Объём",
+        "value": "50 мл"
+      },
+      {
+        "name": "Основа",
+        "value": "Силикон"
+      },
+      {
+        "name": "Водостойкость",
+        "value": "Да"
+      }
+    ]
+  },
+  {
+    "id": "p053",
+    "name_ru": "Массажное масло Sensual Massage Oil",
+    "name_uk": "Масажна олія Sensual Massage Oil",
+    "description_ru": "Ароматное массажное масло с эффектом разогрева. Запах ванили.",
+    "description_uk": "Ароматична масажна олія з ефектом розігріву. Запах ванілі.",
+    "price": 399,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000053_1.jpg"
+    ],
+    "categoryId": "601",
+    "available": true,
+    "params": [
+      {
+        "name": "Объём",
+        "value": "100 мл"
+      },
+      {
+        "name": "Запах",
+        "value": "Ваниль"
+      },
+      {
+        "name": "Эффект",
+        "value": "Разогревающий"
+      }
+    ]
+  },
+  {
+    "id": "p054",
+    "name_ru": "Анальный лубрикант Anal Comfort",
+    "name_uk": "Анальний лубрикант Anal Comfort",
+    "description_ru": "Специальный густой лубрикант для анального секса. Долго удерживается.",
+    "description_uk": "Спеціальний густий лубрикант для анального сексу. Довго утримується.",
+    "price": 299,
+    "oldprice": 399,
+    "images": [
+      "https://images.prom.ua/4800000054_1.jpg"
+    ],
+    "categoryId": "601",
+    "available": true,
+    "params": [
+      {
+        "name": "Объём",
+        "value": "75 мл"
+      },
+      {
+        "name": "Консистенция",
+        "value": "Гель"
+      },
+      {
+        "name": "Основа",
+        "value": "Вода"
+      }
+    ]
+  },
+  {
+    "id": "p055",
+    "name_ru": "Лубрикант ароматизированный Strawberry",
+    "name_uk": "Лубрикант ароматизований Strawberry",
+    "description_ru": "Лубрикант с запахом клубники. Съедобный, без сахара.",
+    "description_uk": "Лубрикант із запахом полуниці. Їстівний, без цукру.",
+    "price": 279,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000055_1.jpg"
+    ],
+    "categoryId": "601",
+    "available": true,
+    "params": [
+      {
+        "name": "Объём",
+        "value": "100 мл"
+      },
+      {
+        "name": "Запах",
+        "value": "Клубника"
+      },
+      {
+        "name": "Съедобный",
+        "value": "Да"
+      }
+    ]
+  },
+  {
+    "id": "p056",
+    "name_ru": "Презервативы Durex Classic 12шт",
+    "name_uk": "Презервативи Durex Classic 12шт",
+    "description_ru": "Классические презервативы с смазкой. 12 штук в упаковке.",
+    "description_uk": "Класичні презервативи зі змащенням. 12 штук в упаковці.",
+    "price": 199,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000056_1.jpg"
+    ],
+    "categoryId": "602",
+    "available": true,
+    "params": [
+      {
+        "name": "Количество",
+        "value": "12 шт"
+      },
+      {
+        "name": "Размер",
+        "value": "Стандарт"
+      },
+      {
+        "name": "Смазка",
+        "value": "Да"
+      }
+    ]
+  },
+  {
+    "id": "p057",
+    "name_ru": "Презервативы Ribbed & Dotted 12шт",
+    "name_uk": "Презервативи Ribbed & Dotted 12шт",
+    "description_ru": "Рельефные презервативы с рёбрами и точками для максимального удовольствия.",
+    "description_uk": "Рельєфні презервативи з ребрами і точками для максимального задоволення.",
+    "price": 249,
+    "oldprice": 299,
+    "images": [
+      "https://images.prom.ua/4800000057_1.jpg"
+    ],
+    "categoryId": "602",
+    "available": true,
+    "params": [
+      {
+        "name": "Количество",
+        "value": "12 шт"
+      },
+      {
+        "name": "Тип",
+        "value": "Рельефные"
+      },
+      {
+        "name": "Смазка",
+        "value": "Усиленная"
+      }
+    ]
+  },
+  {
+    "id": "p058",
+    "name_ru": "Презервативы XL Extra Large 10шт",
+    "name_uk": "Презервативи XL Extra Large 10шт",
+    "description_ru": "Презервативы увеличенного размера XL. 10 штук в упаковке.",
+    "description_uk": "Презервативи збільшеного розміру XL. 10 штук в упаковці.",
+    "price": 229,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000058_1.jpg"
+    ],
+    "categoryId": "602",
+    "available": true,
+    "params": [
+      {
+        "name": "Количество",
+        "value": "10 шт"
+      },
+      {
+        "name": "Размер",
+        "value": "XL"
+      },
+      {
+        "name": "Ширина",
+        "value": "60 мм"
+      }
+    ]
+  },
+  {
+    "id": "p059",
+    "name_ru": "Набор для двоих Lovers Kit",
+    "name_uk": "Набір для двох Lovers Kit",
+    "description_ru": "Романтический набор: вибратор, лубрикант, маска, наручники, свечи.",
+    "description_uk": "Романтичний набір: вібратор, лубрикант, маска, наручники, свічки.",
+    "price": 1999,
+    "oldprice": 2499,
+    "images": [
+      "https://images.prom.ua/4800000059_1.jpg"
+    ],
+    "categoryId": "701",
+    "available": true,
+    "params": [
+      {
+        "name": "Комплект",
+        "value": "5 предметов"
+      },
+      {
+        "name": "Упаковка",
+        "value": "Подарочная коробка"
+      },
+      {
+        "name": "Лубрикант",
+        "value": "50 мл"
+      }
+    ]
+  },
+  {
+    "id": "p060",
+    "name_ru": "Игра для пар Sexy Dice Game",
+    "name_uk": "Гра для пар Sexy Dice Game",
+    "description_ru": "Набор эротических кубиков и карточек для пар. Разнообразьте ваш интим.",
+    "description_uk": "Набір еротичних кубиків і карток для пар. Урізноманітніть ваш інтим.",
+    "price": 399,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000060_1.jpg"
+    ],
+    "categoryId": "701",
+    "available": true,
+    "params": [
+      {
+        "name": "Комплект",
+        "value": "Кубики+Карточки"
+      },
+      {
+        "name": "Язык",
+        "value": "Украинский/Русский"
+      },
+      {
+        "name": "Возраст",
+        "value": "18+"
+      }
+    ]
+  },
+  {
+    "id": "p061",
+    "name_ru": "Свечи для массажа Massage Candles",
+    "name_uk": "Свічки для масажу Massage Candles",
+    "description_ru": "Набор из 3 массажных свечей с разными ароматами. Теплый воск не обжигает.",
+    "description_uk": "Набір з 3 масажних свічок з різними ароматами. Теплий віск не обпалює.",
+    "price": 549,
+    "oldprice": 699,
+    "images": [
+      "https://images.prom.ua/4800000061_1.jpg"
+    ],
+    "categoryId": "701",
+    "available": true,
+    "params": [
+      {
+        "name": "Комплект",
+        "value": "3 свечи"
+      },
+      {
+        "name": "Ароматы",
+        "value": "Ваниль/Жасмин/Роза"
+      },
+      {
+        "name": "Время горения",
+        "value": "2-3 часа"
+      }
+    ]
+  },
+  {
+    "id": "p062",
+    "name_ru": "Вибратор Womanizer Premium",
+    "name_uk": "Вібратор Womanizer Premium",
+    "description_ru": "Клиторальный стимулятор с технологией Pleasure Air. 12 интенсивностей.",
+    "description_uk": "Кліторальний стимулятор з технологією Pleasure Air. 12 інтенсивностей.",
+    "price": 3499,
+    "oldprice": 3999,
+    "images": [
+      "https://images.prom.ua/4800000062_1.jpg"
+    ],
+    "categoryId": "101",
+    "available": true,
+    "params": [
+      {
+        "name": "Режимов",
+        "value": "12"
+      },
+      {
+        "name": "Заряд",
+        "value": "Магнитный USB"
+      },
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      }
+    ]
+  },
+  {
+    "id": "p063",
+    "name_ru": "Вибратор Dame Eva",
+    "name_uk": "Вібратор Dame Eva",
+    "description_ru": "Hands-free вибратор для клитора. Крепится с помощью специальных крыльев.",
+    "description_uk": "Hands-free вібратор для клітора. Кріпиться за допомогою спеціальних крил.",
+    "price": 2799,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000063_1.jpg"
+    ],
+    "categoryId": "101",
+    "available": true,
+    "params": [
+      {
+        "name": "Тип",
+        "value": "Hands-free"
+      },
+      {
+        "name": "Режимов",
+        "value": "3"
+      },
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      }
+    ]
+  },
+  {
+    "id": "p064",
+    "name_ru": "Вибратор OhMiBod Bluemotion",
+    "name_uk": "Вібратор OhMiBod Bluemotion",
+    "description_ru": "Вибратор управляемый через смартфон. Работает на любом расстоянии.",
+    "description_uk": "Вібратор керований через смартфон. Працює на будь-якій відстані.",
+    "price": 2299,
+    "oldprice": 2699,
+    "images": [
+      "https://images.prom.ua/4800000064_1.jpg"
+    ],
+    "categoryId": "101",
+    "available": true,
+    "params": [
+      {
+        "name": "Управление",
+        "value": "App Bluetooth"
+      },
+      {
+        "name": "Дальность",
+        "value": "Неограниченная"
+      },
+      {
+        "name": "Заряд",
+        "value": "USB"
+      }
+    ]
+  },
+  {
+    "id": "p065",
+    "name_ru": "Дилдо Tantus Perfect",
+    "name_uk": "Дилдо Tantus Perfect",
+    "description_ru": "Силиконовый фаллоимитатор с присоской. Подходит для страпона.",
+    "description_uk": "Силіконовий фалоімітатор з присоском. Підходить для страпону.",
+    "price": 1199,
+    "oldprice": 1399,
+    "images": [
+      "https://images.prom.ua/4800000065_1.jpg"
+    ],
+    "categoryId": "102",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      },
+      {
+        "name": "Длина",
+        "value": "16 см"
+      },
+      {
+        "name": "Присоска",
+        "value": "Да"
+      }
+    ]
+  },
+  {
+    "id": "p066",
+    "name_ru": "Стимулятор для пар Lelo Tiani",
+    "name_uk": "Стимулятор для пар Lelo Tiani",
+    "description_ru": "Вибратор для ношения во время близости. 8 паттернов вибрации.",
+    "description_uk": "Вібратор для носіння під час близькості. 8 паттернів вібрації.",
+    "price": 3299,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000066_1.jpg"
+    ],
+    "categoryId": "501",
+    "available": true,
+    "params": [
+      {
+        "name": "Режимов",
+        "value": "8"
+      },
+      {
+        "name": "Управление",
+        "value": "Пульт ДУ"
+      },
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      }
+    ]
+  },
+  {
+    "id": "p067",
+    "name_ru": "Электростимулятор Electro Set",
+    "name_uk": "Електростимулятор Electro Set",
+    "description_ru": "Набор для электростимуляции с насадками. Регулируемая интенсивность.",
+    "description_uk": "Набір для електростимуляції з насадками. Регульована інтенсивність.",
+    "price": 2199,
+    "oldprice": 2599,
+    "images": [
+      "https://images.prom.ua/4800000067_1.jpg"
+    ],
+    "categoryId": "301",
+    "available": true,
+    "params": [
+      {
+        "name": "Насадки",
+        "value": "5 шт"
+      },
+      {
+        "name": "Интенсивность",
+        "value": "10 уровней"
+      },
+      {
+        "name": "Питание",
+        "value": "Аккумулятор"
+      }
+    ]
+  },
+  {
+    "id": "p068",
+    "name_ru": "Маска для БДСМ Blindfold",
+    "name_uk": "Маска для БДСМ Blindfold",
+    "description_ru": "Шелковая маска для глаз. Мягкая, не пропускает свет.",
+    "description_uk": "Шовкова маска для очей. М'яка, не пропускає світло.",
+    "price": 299,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000068_1.jpg"
+    ],
+    "categoryId": "301",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Шёлк"
+      },
+      {
+        "name": "Размер",
+        "value": "Универсальный"
+      },
+      {
+        "name": "Цвет",
+        "value": "Черный"
+      }
+    ]
+  },
+  {
+    "id": "p069",
+    "name_ru": "Пояс целомудрия Chastity Belt",
+    "name_uk": "Пояс цнотливості Chastity Belt",
+    "description_ru": "Пояс целомудрия из нержавеющей стали. Регулируемый размер.",
+    "description_uk": "Пояс цнотливості з нержавіючої сталі. Регульований розмір.",
+    "price": 1499,
+    "oldprice": 1799,
+    "images": [
+      "https://images.prom.ua/4800000069_1.jpg"
+    ],
+    "categoryId": "301",
+    "available": true,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Нержавеющая сталь"
+      },
+      {
+        "name": "Размер",
+        "value": "Регулируемый"
+      },
+      {
+        "name": "Замок",
+        "value": "С ключом"
+      }
+    ]
+  },
+  {
+    "id": "p070",
+    "name_ru": "Секс-качели Love Swing",
+    "name_uk": "Секс-гойдалки Love Swing",
+    "description_ru": "Секс-качели для домашнего использования. Выдерживают до 200 кг.",
+    "description_uk": "Секс-гойдалки для домашнього використання. Витримують до 200 кг.",
+    "price": 2999,
+    "oldprice": 3499,
+    "images": [
+      "https://images.prom.ua/4800000070_1.jpg"
+    ],
+    "categoryId": "501",
+    "available": true,
+    "params": [
+      {
+        "name": "Нагрузка",
+        "value": "200 кг"
+      },
+      {
+        "name": "Материал",
+        "value": "Нейлон+Металл"
+      },
+      {
+        "name": "Монтаж",
+        "value": "На дверь/потолок"
+      }
+    ]
+  },
+  {
+    "id": "p071",
+    "name_ru": "Вибратор Lovense Lush 3",
+    "name_uk": "Вібратор Lovense Lush 3",
+    "description_ru": "Вибраторный яичко с управлением через приложение. Для общественных мест.",
+    "description_uk": "Вібраторне яйце з управлінням через додаток. Для громадських місць.",
+    "price": 2599,
+    "oldprice": null,
+    "images": [
+      "https://images.prom.ua/4800000071_1.jpg"
+    ],
+    "categoryId": "101",
+    "available": true,
+    "params": [
+      {
+        "name": "Управление",
+        "value": "App Bluetooth"
+      },
+      {
+        "name": "Длина",
+        "value": "8 см"
+      },
+      {
+        "name": "Материал",
+        "value": "Силикон"
+      }
+    ]
+  },
+  {
+    "id": "p072",
+    "name_ru": "Анальная пробка Light Up LED",
+    "name_uk": "Анальна пробка Light Up LED",
+    "description_ru": "Анальная пробка с LED-подсветкой. Металлическая, с кристаллом.",
+    "description_uk": "Анальна пробка з LED-підсвіткою. Металева, з кристалом.",
+    "price": 999,
+    "oldprice": 1199,
+    "images": [
+      "https://images.prom.ua/4800000072_1.jpg"
+    ],
+    "categoryId": "303",
+    "available": false,
+    "params": [
+      {
+        "name": "Материал",
+        "value": "Нержавеющая сталь"
+      },
+      {
+        "name": "Подсветка",
+        "value": "RGB LED"
+      },
+      {
+        "name": "Длина",
+        "value": "7 см"
+      }
+    ]
+  }
+]
